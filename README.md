@@ -1,10 +1,10 @@
 README.md
-# Hi there, I'm David 👋
+# Hi there, I'm David Osaretin Adeniyi 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with a love for coding and problem-solving. Here you can find some of the projects I've been working on and contributions I've made to the open-source community.
+Welcome to my GitHub profile! I'm a passionate Data Analyst with a love for coding and problem-solving. Here you can find some of the projects I've been working on and contributions I've made to the open-source community.
 
 ## About Me
-- 🌱 I’m currently learning advanced algorithms and system design.
+- 🌱 I’m currently learning Data Science and training to become a data scientist specializing in the use of Artificial Intelligence in solving problems.
 - 🔭 I’m working on several open-source projects, including a web application for task management and a Python library for data analysis.
 - 🤔 I’m looking for help with improving my knowledge in machine learning and AI.
 - 💬 Ask me about Python, JavaScript, or any other programming-related topics.
